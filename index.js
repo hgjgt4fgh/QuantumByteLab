@@ -1,1 +1,1 @@
-const head = (arr) => arr[0];
+const randomNumber = Math.floor(Math.random() * 10) + 1;
